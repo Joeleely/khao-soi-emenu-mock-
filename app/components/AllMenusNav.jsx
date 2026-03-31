@@ -6,7 +6,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { HiBars3 } from "react-icons/hi2";
 
 export const ALL_MENU_ROUTES = [
-  { href: "/", label: "Khao-soi curry", hint: "⌥1" },
+  { href: "/", label: "Khao-soi", hint: "⌥1" },
   { href: "/juice", label: "Fresh fruit juice", hint: "⌥2" },
   { href: "/stir-fried-khao-soi", label: "Stir-fried Khao-soi", hint: "⌥3" },
 ];
